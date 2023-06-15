@@ -1,0 +1,31 @@
+.bg-black{
+    background-color: black;
+    color: #ffffff;
+}
+.font1{
+    font-family: 'Rubik', sans-serif;
+}
+.background{
+    background-color: #1A1A1A;
+}
+.btn-color{
+    border: 2px solid #FF9142;
+    background-color: #FF9142;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+.font2{
+    font-family: 'Syne', sans-serif;
+}
+.border-color{
+    border: 2px solid #FF9142}
+.border-color2{
+    border: 2px solid #3c3a3a
+
+}
+.footerbg{
+    background-color: #131313;
+}
+.color{
+    color: #FF9142;
+}
